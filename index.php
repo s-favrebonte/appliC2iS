@@ -24,7 +24,7 @@
             </div>
           <?php else: 
 
-            //Le corp de l'application est construit suivant ce qui est demandé par l'utilisateur.
+            //Le corps de l'application est construit suivant ce qui est demandé par l'utilisateur.
 
             $page=(isset($_GET['page']))?$_GET['page']:'';
             if(empty($page) || isset($_GET['id']) && !is_int((int) $_GET['id']) 
