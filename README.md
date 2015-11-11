@@ -2,11 +2,11 @@
 
 Application test pour candidats développeurs C2iS
 
-CONTEXTE
+# CONTEXTE
 
 L'application a pour but d'afficher des données (des livres et leurs auteurs).
 
-INSTALATION
+# INSTALATION
 
 1. Création de la table: appli_C2iS
 2. Importer le fichier appli_C2iS.sql
